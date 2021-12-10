@@ -1,0 +1,1 @@
+2. En el prompt, carga tu archivo de licencia y configura una contraseña de consola de administración. For more information, see "[Managing your license for {% data variables.product.prodname_enterprise %}](/billing/managing-your-license-for-github-enterprise)."
