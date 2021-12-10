@@ -1,0 +1,1 @@
+Para obter mais informações sobre endereços de e-mail de commit,{% ifversion fpt %} incluindo seu endereço de e-mail `noreply` fornecido por{% data variables.product.product_name %},{% endif %} consulte "[Configurar seu endereço de e-mail do commit](/articles/setting-your-commit-email-address)."
