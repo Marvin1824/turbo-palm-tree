@@ -1,0 +1,1 @@
+Os segredos criptografados permitem que você armazene informações confidenciais, como tokens de acesso, no repositório{% ifversion fpt or ghes > 3.1 or ghae-next %}, ambientes do repositório,{% endif %} ou organização.
