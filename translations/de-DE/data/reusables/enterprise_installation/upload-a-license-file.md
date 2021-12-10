@@ -1,0 +1,1 @@
+2. Lade an der Eingabeaufforderung Deine Lizenzdatei hoch, und lege das Passwort für die Managementkonsole fest. For more information, see "[Managing your license for {% data variables.product.prodname_enterprise %}](/billing/managing-your-license-for-github-enterprise)."
